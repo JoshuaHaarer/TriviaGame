@@ -1,4 +1,3 @@
-body{
-    background-image: url("assets/images/background.png");
-    width: 100%;
+#after-submit{
+    visibility: hidden;
 }
